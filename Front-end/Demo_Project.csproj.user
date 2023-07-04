@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="New_Controls_Designs\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="New_Controls_Designs\RJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="New_Controls_Designs\RPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Create_Room_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Demo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Endgame_screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Join_Room_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Join_Room_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Menu_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\NewTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Standard_Gameplay_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Vote_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Waiting_Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Wild_Gameplay_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

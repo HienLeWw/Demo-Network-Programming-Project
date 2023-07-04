@@ -1,0 +1,197 @@
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\bin\Debug\net6.0-windows\Demo_Project.exe
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\bin\Debug\net6.0-windows\Demo_Project.deps.json
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\bin\Debug\net6.0-windows\Demo_Project.runtimeconfig.json
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\bin\Debug\net6.0-windows\Demo_Project.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\bin\Debug\net6.0-windows\Demo_Project.pdb
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.AssemblyReference.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.New_Controls_Designs.NewTextBox.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.RJTextBox.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Properties.Resources.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Create_Room_Form.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Demo.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Endgame_screen.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_1.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_2.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Login_Form.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Menu_Form.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Standard_Gameplay_Screen.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Vote_Screen.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Waiting_Room.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.Wild_Gameplay_Screen.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.GenerateResource.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfoInputs.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfo.cs
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CoreCompileInputs.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CopyComplete
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\refint\Demo_Project.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.pdb
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.genruntimeconfig.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\ref\Demo_Project.dll
+D:\work\Code\Fillmao\Front-end\bin\Debug\net6.0-windows\Demo_Project.exe
+D:\work\Code\Fillmao\Front-end\bin\Debug\net6.0-windows\Demo_Project.deps.json
+D:\work\Code\Fillmao\Front-end\bin\Debug\net6.0-windows\Demo_Project.runtimeconfig.json
+D:\work\Code\Fillmao\Front-end\bin\Debug\net6.0-windows\Demo_Project.dll
+D:\work\Code\Fillmao\Front-end\bin\Debug\net6.0-windows\Demo_Project.pdb
+D:\work\Code\Fillmao\Front-end\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.AssemblyReference.cache
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.New_Controls_Designs.NewTextBox.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.RJTextBox.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Properties.Resources.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Create_Room_Form.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Demo.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Endgame_screen.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_1.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_2.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Login_Form.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Menu_Form.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Standard_Gameplay_Screen.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Vote_Screen.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Waiting_Room.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.Wild_Gameplay_Screen.resources
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.GenerateResource.cache
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfoInputs.cache
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfo.cs
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CoreCompileInputs.cache
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CopyComplete
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.dll
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\refint\Demo_Project.dll
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.pdb
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\Demo_Project.genruntimeconfig.cache
+D:\work\Code\Fillmao\Front-end\obj\Debug\net6.0-windows\ref\Demo_Project.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\bin\Debug\net6.0-windows\Demo_Project.exe
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\bin\Debug\net6.0-windows\Demo_Project.deps.json
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\bin\Debug\net6.0-windows\Demo_Project.runtimeconfig.json
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\bin\Debug\net6.0-windows\Demo_Project.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\bin\Debug\net6.0-windows\Demo_Project.pdb
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.AssemblyReference.cache
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.New_Controls_Designs.NewTextBox.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.RJTextBox.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Properties.Resources.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Create_Room_Form.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Demo.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Endgame_screen.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_1.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_2.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Login_Form.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Menu_Form.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Standard_Gameplay_Screen.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Vote_Screen.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Waiting_Room.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.Wild_Gameplay_Screen.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.GenerateResource.cache
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfoInputs.cache
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfo.cs
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CoreCompileInputs.cache
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CopyComplete
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\refint\Demo_Project.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.pdb
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.genruntimeconfig.cache
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\ref\Demo_Project.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end\obj\Debug\net6.0-windows\Demo_Project.NewTextBox.resources
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\obj\Debug\net6.0-windows\Demo_Project.NewTextBox.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\bin\Debug\net6.0-windows\Demo_Project.exe
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\bin\Debug\net6.0-windows\Demo_Project.deps.json
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\bin\Debug\net6.0-windows\Demo_Project.runtimeconfig.json
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\bin\Debug\net6.0-windows\Demo_Project.dll
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\bin\Debug\net6.0-windows\Demo_Project.pdb
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.AssemblyReference.cache
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.New_Controls_Designs.NewTextBox.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.RJTextBox.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Properties.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Create_Room_Form.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Demo.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Endgame_screen.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_1.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_2.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Login_Form.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Menu_Form.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.NewTextBox.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Standard_Gameplay_Screen.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Vote_Screen.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Waiting_Room.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.Wild_Gameplay_Screen.resources
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.GenerateResource.cache
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfoInputs.cache
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfo.cs
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CopyComplete
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.dll
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\refint\Demo_Project.dll
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.pdb
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\Demo_Project.genruntimeconfig.cache
+C:\Users\ADMIN\AppData\Local\Temp\MicrosoftEdgeDownloads\e2b3f3eb-c935-4494-9203-08b433177579\Front-end\obj\Debug\net6.0-windows\ref\Demo_Project.dll
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.New_Controls_Designs.NewTextBox.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.RJTextBox.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Create_Room_Form.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Demo.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Endgame_screen.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_1.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_2.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Login_Form.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Menu_Form.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.NewTextBox.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Standard_Gameplay_Screen.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Vote_Screen.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Waiting_Room.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.Wild_Gameplay_Screen.resources
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.dll
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\refint\Demo_Project.dll
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.pdb
+C:\Users\ADMIN\Downloads\Front-end\bin\Debug\net6.0-windows\Demo_Project.exe
+C:\Users\ADMIN\Downloads\Front-end\bin\Debug\net6.0-windows\Demo_Project.deps.json
+C:\Users\ADMIN\Downloads\Front-end\bin\Debug\net6.0-windows\Demo_Project.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Front-end\bin\Debug\net6.0-windows\Demo_Project.dll
+C:\Users\ADMIN\Downloads\Front-end\bin\Debug\net6.0-windows\Demo_Project.pdb
+C:\Users\ADMIN\Downloads\Front-end\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\Demo_Project.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Front-end\obj\Debug\net6.0-windows\ref\Demo_Project.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\bin\Debug\net6.0-windows\Demo_Project.exe
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\bin\Debug\net6.0-windows\Demo_Project.deps.json
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\bin\Debug\net6.0-windows\Demo_Project.runtimeconfig.json
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\bin\Debug\net6.0-windows\Demo_Project.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\bin\Debug\net6.0-windows\Demo_Project.pdb
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.AssemblyReference.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.New_Controls_Designs.NewTextBox.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.RJTextBox.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Properties.Resources.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Create_Room_Form.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Demo.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Endgame_screen.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_1.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Join_Room_2.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Login_Form.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Menu_Form.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.NewTextBox.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Standard_Gameplay_Screen.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Vote_Screen.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Waiting_Room.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.Wild_Gameplay_Screen.resources
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.GenerateResource.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfoInputs.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.AssemblyInfo.cs
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CoreCompileInputs.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.csproj.CopyComplete
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\refint\Demo_Project.dll
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.pdb
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\Demo_Project.genruntimeconfig.cache
+D:\Documents\4th-Semester\Network-Programming_Project\FilLmao-main\Front-end_new3\Front-end\obj\Debug\net6.0-windows\ref\Demo_Project.dll

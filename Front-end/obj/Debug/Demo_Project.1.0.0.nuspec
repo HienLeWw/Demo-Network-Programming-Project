@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Demo_Project</id>
+    <version>1.0.0</version>
+    <authors>Demo_Project</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Newtonsoft.Json" version="9.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\bin\Debug\net6.0-windows\Demo_Project.runtimeconfig.json" target="lib\net6.0-windows7.0\Demo_Project.runtimeconfig.json" />
+    <file src="D:\ATTT-HK2-Năm 2\đồ án LTMCB\Front-end\bin\Debug\net6.0-windows\Demo_Project.dll" target="lib\net6.0-windows7.0\Demo_Project.dll" />
+  </files>
+</package>
